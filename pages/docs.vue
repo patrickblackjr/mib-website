@@ -3,9 +3,6 @@
     <b-container>
       <page-header :title="pageTitle" />
       <b-row align-h="center" class="text-center">
-        <!-- <b-col cols="12" md="2" class="text-right">
-          <Navigation />
-        </b-col> -->
         <b-col cols="12" md="8">
           <p class="mb-4">
             To invoke a command, reply to either the top-level u/MemeInvestor_bot comment 
@@ -25,13 +22,11 @@
 
 <script>
 import PageHeader from '@/components/PageHeader.vue';
-// import Navigation from '@/components/docs/Navigation.vue';
 import Content from '@/components/docs/Content.vue';
 
 export default {
   components: {
     PageHeader,
-    // Navigation,
     Content
   },
   head () {
