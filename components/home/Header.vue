@@ -8,7 +8,7 @@
             MemeInvestor is a <a target="new" href="https://reddit.com/r/memeinvestor_bot">/r/MemeEconomy</a> reddit bot that can help you invest 
             in memes and make a fortune out of it!
           </p>
-          <b-button to="" variant="primary" size="lg">Get started</b-button>
+          <b-button to="/docs" variant="primary" size="lg">Get started</b-button>
         </b-jumbotron>
       </b-col>
     </b-row>
