@@ -7,8 +7,8 @@
         <b-navbar-nav class="ml-auto">
           <b-nav-item exact to="/">Home</b-nav-item>
           <b-nav-item exact to="/docs">Docs</b-nav-item>
-          <b-nav-item exact to="">Donate</b-nav-item>
-          <b-nav-item exact to="">Subreddit</b-nav-item>
+          <b-nav-item exact target="new" href="https://www.patreon.com/memeinvestor_bot">Donate</b-nav-item>
+          <b-nav-item exact target="new" href="https://reddit.com/r/memeinvestor_bot">Subreddit</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
       </b-navbar>
